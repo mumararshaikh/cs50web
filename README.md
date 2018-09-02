@@ -1,13 +1,13 @@
-### CS50 Course for web
+# CS50 Course for web
 -----------------------------------------------------------------
-## Project 0 - Make a website
+#### Project 0 - Make a website
 
 This is Simple Website for Portfolio and Project for CS50 course.
 
 This Site uses HTML, CSS for frontend. BootStrap is used as a framework. To get a
 Idea, how a website is build.
 
-# Specification of Web project/Requirements:
+#### Specification of Web project/Requirements:
 A) Your website must contain at least four different .html pages, and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
 -    i) index.html: Main page of website. This is a homepage of my website.
 -    ii) project.html: Features the list of project completed in this course.
